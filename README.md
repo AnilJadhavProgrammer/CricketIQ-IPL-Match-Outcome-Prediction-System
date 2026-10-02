@@ -1,4 +1,4 @@
-# IPL-WINNING-TEAM-PREDICTION
+# CricketIQ — IPL Match Outcome Prediction System
 **Introduction**
 
 This project aims to predict the winning team of Indian Premier League (IPL) matches using historical data. The project involves data analysis, feature engineering, and applying machine learning algorithms to make predictions.
